@@ -1,6 +1,7 @@
 # flutterdesktop
 
-A new Flutter application.
+Flutter Thursday 12: Building with Flutter Desktop
+In this episode, we will build this interface using flutter. Flutter desktop provides bindings that allow your render flutter applications on desktop computers.
 
 ## Getting Started
 
