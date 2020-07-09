@@ -5,6 +5,18 @@ In this episode, we will build this interface using flutter. Flutter desktop pro
 
 ## Getting Started
 
+```
+git clobe https://github.com/shubie/flutter-desktop.git
+
+cd flutter-desktop
+
+ flutter run -d macos
+
+  Or 
+
+ flutter run -d linux
+```
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
