@@ -4,6 +4,8 @@ Flutter Thursday 12: Building with Flutter Desktop
 
 In this episode, we will build this interface using flutter. Flutter desktop provides bindings that allow your render flutter applications on desktop computers.
 
+See write up: https://medium.com/@afegbua/flutter-thursday-12-building-with-flutter-desktop-aa3abb42fed1
+
 ## Getting Started
 
 ```
