@@ -10,11 +10,11 @@ git clone https://github.com/shubie/flutter-desktop.git
 
 cd flutter-desktop
 
- flutter run -d macos
+flutter run -d macos
 
   Or 
 
- flutter run -d linux
+flutter run -d linux
 ```
 
 This project is a starting point for a Flutter application.
