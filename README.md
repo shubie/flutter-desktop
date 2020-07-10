@@ -6,7 +6,7 @@ In this episode, we will build this interface using flutter. Flutter desktop pro
 ## Getting Started
 
 ```
-git clobe https://github.com/shubie/flutter-desktop.git
+git clone https://github.com/shubie/flutter-desktop.git
 
 cd flutter-desktop
 
